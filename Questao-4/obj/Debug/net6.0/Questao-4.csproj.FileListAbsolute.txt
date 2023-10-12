@@ -1,0 +1,14 @@
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.AssemblyInfoInputs.cache
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.AssemblyInfo.cs
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.csproj.CoreCompileInputs.cache
+C:\Desafio-Coding-Tank-Ada\Questao-4\bin\Debug\net6.0\Questao-4.exe
+C:\Desafio-Coding-Tank-Ada\Questao-4\bin\Debug\net6.0\Questao-4.deps.json
+C:\Desafio-Coding-Tank-Ada\Questao-4\bin\Debug\net6.0\Questao-4.runtimeconfig.json
+C:\Desafio-Coding-Tank-Ada\Questao-4\bin\Debug\net6.0\Questao-4.dll
+C:\Desafio-Coding-Tank-Ada\Questao-4\bin\Debug\net6.0\Questao-4.pdb
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.dll
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\refint\Questao-4.dll
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.pdb
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\Questao-4.genruntimeconfig.cache
+C:\Desafio-Coding-Tank-Ada\Questao-4\obj\Debug\net6.0\ref\Questao-4.dll
